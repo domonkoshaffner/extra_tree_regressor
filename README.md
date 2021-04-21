@@ -1,1 +1,3 @@
-# extra_tree_regressor
+# Extra Tree Regressor 
+
+This repository contains the analysis of used car prices with the extra tree regressor model.
